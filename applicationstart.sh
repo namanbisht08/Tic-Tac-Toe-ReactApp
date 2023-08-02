@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /frontend
-npm start
+pm2 restart TTT
